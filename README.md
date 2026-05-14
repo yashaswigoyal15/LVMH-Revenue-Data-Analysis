@@ -9,8 +9,6 @@ data for France, USA, China, and Japan, covering 2018–2024.
 - LVMH outpaced French inflation in 5 of 6 years studied
 - Real (inflation-adjusted) revenue still grew substantially, confirming 
   genuine volume and pricing power gains, not just nominal inflation effects
-- China's near-zero inflation in 2023–24 reveals its demand slowdown was 
-  a confidence problem, not a price problem
 
 ## Data sources
 - LVMH Annual Reports 2018–2024
